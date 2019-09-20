@@ -1,0 +1,20 @@
+ 1248  tail head history.txt 
+ 1249  history | tail
+ 1250  history | tail -n 20
+ 1251  echo $HISTSIZE
+ 1252  history | tail 20
+ 1253  history 20
+ 1254  history | tail -n 20
+ 1255  history | tail -n 20 > history.txt 
+ 1256  thomas@souksouvanh-Legion:~$ grep "2019,PHP" wilders.csv | grep "France" | wc -l> php_france_2019.txt
+ 1257  grep "2019,PHP" wilders.csv | grep "France" | wc -l> php_france_2019.txt
+ 1258  grep -E "Biarritz|Toulouse" wilders.csv | grep "JavaScript" > javascript_biarritz_toulouse.csv 
+ 1259  history | tail -n 20 history.txt
+ 1260  history | -n 20 
+ 1261  history | tail -n 20 
+ 1262  history | tail -n 20 > history.txt
+ 1263  grep "2019,PHP" wilders.csv | grep "France" | wc -l> php_france_2019.txt
+ 1264  grep -E "Biarritz|Toulouse" wilders.csv | grep "JavaScript" >
+ 1265  grep "2019,PHP" wilders.csv | grep "France" | wc -l> php_france_2019.txt
+ 1266  grep -E "Biarritz|Toulouse" wilders.csv | grep "JavaScript" > javascript_biarritz_toulouse.csv 
+ 1267  history | tail -n 20 > history.txt
